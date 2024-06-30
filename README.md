@@ -1,6 +1,6 @@
 # create-folder-for-react-create-app
 
-# Создание каталогов с компонентами в одну строчку || Creating directories with components in one line
+## Создание каталогов с компонентами в одну строчку || Creating directories with components in one line
  
 Предоставленные файлы помогут вам без лишних движений создавать каталоги для приложений Create React App.<br>
 Первый файл **customc** (custom command) является оберткой, позволяющей выполнять скрипты, которые находятся в папке на рабочем столе. Папка должна называться **cmd-scripts**.<br>
@@ -17,7 +17,7 @@
 Успехов!<br>
 <br>
 The provided files will help you create directories for Create React App applications without unnecessary movements.<br>
-The first file, **customs** (custom command), is a wrapper that allows you to execute scripts that are located in a folder on the desktop. The folder should be named **cmd-scripts**.<br>
+The first file, **customc** (custom command), is a wrapper that allows you to execute scripts that are located in a folder on the desktop. The folder should be named **cmd-scripts**.<br>
 The second **rcdir** (react create directory) file is an immediate script. It creates a directory with the specified name and two files in it: **<name>.tsx** and **<name>.module.css**.<br>
 In <name>.The tsx script immediately prescribes the import of the css file and creates a functional component with the same name as the directory.<br>
 <br>
@@ -26,7 +26,7 @@ Instruction manual:<br>
 2. Create a folder named **cmd-scripts** on your desktop and put the **rcdir** file there.<br>
 3. Now you can open your favorite editor (for example VS Code) and navigate to the components folder in the terminal. For example, in ./src/components<br>
 4. Write the command - **custom rcdir AnyComponent**.<br>
-You will have a directory named Anycompanent and two files named **Anycompanent.module.css** and **Anycompanent.tsx**. Everything will be ready to work in Amycomponent.tsx.<br>
+You will have a directory named Anycompanent and two files named **AnyComponent.module.css** and **AnyComponent.tsx**. Everything will be ready to work in Amycomponent.tsx.<br>
 <br>
 Good luck!<br>
 
