@@ -25,8 +25,8 @@ Instruction manual:<br>
 1. Put the custom file in the **C\:windows\system32** directory. This is necessary so that you can run the command from the terminal.<br>
 2. Create a folder named **cmd-scripts** on your desktop and put the **rcdir** file there.<br>
 3. Now you can open your favorite editor (for example VS Code) and navigate to the components folder in the terminal. For example, in ./src/components<br>
-4. Write the command - **custom rcdir AnyComponent**.<br>
-You will have a directory named Anycompanent and two files named **AnyComponent.module.css** and **AnyComponent.tsx**. Everything will be ready to work in Amycomponent.tsx.<br>
+4. Write the command - **customc rcdir AnyComponent**.<br>
+You will have a directory named AnyComponent and two files named **AnyComponent.module.css** and **AnyComponent.tsx**. Everything will be ready to work in Amycomponent.tsx.<br>
 <br>
 Good luck!<br>
 
